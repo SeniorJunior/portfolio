@@ -1,19 +1,27 @@
-# 📊 William Adriel | Senior Business Intelligence Manager
-**Data Strategy | Growth Analytics | Fintech & FMCG Specialist**
+# 📊 Senior Business Intelligence Portfolio
 
+<!-- *** EXECUTIVE BADGE BAR *** -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Location-Jakarta%2C%20ID-red?style=flat-square&logo=googlemaps" alt="Location"/>
+  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-blue?style=flat-square" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Target-Master_of_Biotech_Japan-orange?style=flat-square&logo=bookstack" alt="Goals"/>
+  <img src="https://img.shields.io/badge/Upwork-Top%20Rated%20Candidate-green?style=flat-square&logo=upwork" alt="Upwork Status"/>
+</p>
+
+<!-- *** EXECUTIVE HEADER *** -->
 <table>
   <tr>
-    <td width="30%">
-      <img src="assets/profile-pic.png" width="200" style="border-radius: 50%;" alt="William Adriel"/>
+    <td width="30%" align="center">
+      <img src="assets/profile-pic.png" width="200" style="border-radius: 50%; border: 4px solid #3a7bd5;" alt="William Adriel"/>
     </td>
     <td width="70%">
       <h2>William Adriel</h2>
-      <p><b>Data Strategy | Growth Analytics | Fintech & FMCG Specialist</b></p>
-      <p>Currently driving data-led decision-making at <b>MoneeInsure</b> in Jakarta. I specialize in building robust data architectures that bridge the gap between complex engineering (PostgreSQL/Python) and high-level business strategy.</p>
+      <p><b>Senior Business Intelligence Manager | データサイエンティスト</b></p>
+      <p>Transforming complex financial, automotive, and insurance data into high-level growth strategy. I specialize in building robust data architectures that bridge the gap between complex engineering and executive decision-making.</p>
       <p>
-        <a href="https://www.linkedin.com/in/william-adriel/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-        <a href="https://www.upwork.com/freelancers/~01a6a0d53b5e656ff2?mp_source=share"><img src="https://img.shields.io/badge/Upwork-Hire_Me-green?style=for-the-badge&logo=upwork" alt="Upwork"/></a>
-        <a href="https://seniorjunior.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=github" alt="Portfolio"/></a>
+        <a href="https://www.linkedin.com/in/william-adriel/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+        <a href="https://www.upwork.com/freelancers/~01a6a0d53b5e656ff2?mp_source=share"><img src="https://img.shields.io/badge/Upwork-Hire_Me-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
+        <a href="https://seniorjunior.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
       </p>
     </td>
   </tr>
@@ -21,41 +29,56 @@
 
 ---
 
-## 🛠️ Technical Stack
-- **Languages:** SQL (PostgreSQL, MySQL, SparkSQL, PrestoSQL), Python (Pandas, NumPy, PySpark)
-- **BI & Viz:** PowerBI, Metabase, Microstrategy, Redash, Tableau
-- **Tools:** DBeaver (Database Management), AWS (Solution Architect Associate), Google Sheets/Excel (Advanced), KNIME
-- **Domain Expertise:** Insurance (Life/General), Automotive (Growth), FMCG (Overseas SFA), Agritech (Geo-spatial)
+## 🛠️ Technical Arsenal & Proficiency
+**SQL (PostgreSQL / SparkSQL / BigQuery)** 
+![Progress](https://progress-bar.dev/95/?title=Expert&width=600&color=4479A1)
+
+**Python (Pandas / NumPy / PySpark)** 
+![Progress](https://progress-bar.dev/85/?title=Advanced&width=600&color=3776AB)
+
+**Data Visualization (PowerBI / Metabase / Tableau)** 
+![Progress](https://progress-bar.dev/90/?title=Expert&width=600&color=F2C811)
+
+**Cloud & Eng (AWS / ETL / API Integration)** 
+![Progress](https://progress-bar.dev/75/?title=Solution_Architect&width=600&color=232F3E)
+
+---
+
+## 📈 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seniorjunior&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seniorjunior&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
+</p>
 
 ---
 
 ## 🚀 Key Impact Projects
-*Click on the sections below to view details and technical impact.*
+*Click to expand technical deep-dives.*
 
 <details> 
 <summary><b>📊 GWP & Company Achievement Monitoring Dashboards</b></summary>
-**Role:** Lead for GWP, Policies, and Company Achievements monitoring.
-- **The Work:** Managed full-cycle data support for MoneeInsure. Built real-time monitoring for Company Achievements, GWP, and Policies.
-- **Outcome:** Created concise reporting pipelines (Helicopter and detail views), resulting in more sophisticated actionable insights for all teams.
+**Role:** Lead for GWP and Company Achievement tracking at MoneeInsure.
+- **The Work:** Built real-time monitoring for Company Achievements and Policies.
+- **Outcome:** Unified reporting pipelines into "Helicopter Views," providing executive-level actionable insights.
 </details>
 
 <details>
 <summary><b>🏆 GIIAS 2025: End-to-End Data Leadership</b></summary>
-**Role:** Data Team Lead for Astra Financial GIIAS Flash Deal Event
-- **The Work:** Managed data support for GIIAS (Jakarta, Surabaya, Semarang, Bandung). Built real-time monitoring for Sales, Ushers, and Booth performance.
-- **Outcome:** Provided instant insights for the "Flash Deal" event, optimizing lead generation and achievement monitoring across 4 major cities.
+**Role:** Data Team Lead for Astra Financial (Flash Deal Event)
+- **The Work:** Managed data support across 4 cities (Jakarta, Surabaya, Semarang, Bandung). Built real-time monitors for Sales and Booth performance.
+- **Outcome:** Optimized lead generation and performance tracking for high-pressure regional events.
 </details>
 
 <details>
 <summary><b>🧬 Growth Database & Migration (MoXa)</b></summary>
-- **The Work:** Led the restructuring of the MoXa Growth Database. Migrated and integrated legacy data from FIF, AID, and CMS into a unified source of truth.
-- **Outcome:** Streamlined customer segmentation and product monitoring, enabling more accurate quarterly corporate reviews.
+- **The Work:** Led restructuring and migration of FIF, AID, and CMS databases into a unified Growth Database.
+- **Outcome:** Streamlined customer segmentation and accurate quarterly corporate reviews.
 </details>
 
 <details>
 <summary><b>🌍 Overseas Sales Force Automation (Wingsfood)</b></summary>
-- **The Work:** Coordinated SFA implementation across 5+ countries. Developed supply chain dashboards tracking the "Order-to-Invoice" journey.
-- **Outcome:** **50% revenue increase** within 3 months of deployment via KPI trackers for international sales teams.
+- **The Work:** Coordinated SFA implementation across 5+ countries. Developed "Order-to-Invoice" supply chain dashboards.
+- **Outcome:** **50% revenue increase** within 3 months of deployment via strategic KPI tracking.
 </details>
 
 ---
@@ -64,40 +87,40 @@
 
 ### **Senior Business Intelligence** | MoneeInsure 
 *Jakarta | 8 Months - Present*
-- **Portfolio Tracking:** Developing performance tracking for Ecosystem vs. Non-Ecosystem business lines and monitoring Product Loss Ratios.
-- **Automation:** Built reporting pipelines for Customer Service and Claim Monitoring to reduce manual workload.
-- **Governance:** Leading Weekly/Monthly PDCA and Actuary reporting for General and Life Insurance.
+- **Performance:** Developing tracking for Ecosystem vs. Non-Ecosystem business lines.
+- **Automation:** Built reporting pipelines for Customer Service and Claim Monitoring.
+- **Governance:** Leading Weekly/Monthly PDCA and Actuary reporting for Life/General Insurance.
 
 ### **Growth Data Analyst** | Astra Financial (MoXa)
 *2 Years 3 Months*
-- **Revenue Impact:** Validated Moxa x Bank Jasa Jakarta collaboration, generating **>300M in sales revenue** (Dec 2023).
-- **Customer Acquisition:** Converted 1,000+ leads into transacting customers, generating **>100M GMV**.
+- **Revenue:** Validated MoXa x Bank Jasa Jakarta collaboration, generating **>300M in sales revenue**.
+- **Conversion:** Successfully converted 1,000+ leads into transacting customers (**>100M GMV**).
 
 ### **Business Intelligence Analyst** | Wingsfood (PT Sayap Mas Utama)
 *2 Years 4 Months*
-- **Logistics Optimization:** Created manpower planning models and container allocation trackers.
-- **ETL Performance:** Reduced query latency via advanced SQL tuning and customized functions.
+- **Logistics:** Optimized efficiency via manpower planning models and container allocation trackers.
+- **ETL:** Reduced query latency via advanced SQL tuning and customized functions.
 
 ### **Data Analyst Intern** | Yara International
 *Singapore*
-- **Geo-spatial:** Built cloud data pipelines (Metabase) for geo-spatial assets.
-- **Chatbot:** Led a farmer-focused chatbot project reaching **100k+ users**.
+- **Geo-spatial:** Built cloud data pipelines for geo-spatial assets.
+- **Chatbot:** Led farmer-focused chatbot project reaching **100k+ users**.
 
 ---
 
 ## 🎮 Innovation Side Project
 ### **Advanced Tournament Management System (Osu! Rhythm Game)**
 *Integrated Google Sheets Ecosystem with API & VBA Automation*
-- **The Tech:** Google Sheets API, Excel VBA, UX/UI Design, JSON Data Parsing.
-- **The Solution:** Automated match tracking, map selection, and qualifier results via live API integration.
-- **The Impact:** Transformed a manual process into a seamless, automated digital ecosystem.
+- **Tech:** Google Sheets API, Excel VBA, JSON Parsing, UX/UI Design.
+- **Solution:** Automated match tracking, map selection, and qualifier results via live API.
+- **Impact:** Transformed manual coordination into a seamless automated ecosystem.
 
 ---
 
-## 🖼️ Project Gallery (Osu! Integrated Sheets)
-*Visualizing the UI/UX and Automation logic built in Google Sheets.*
+## 🖼️ Project Gallery (Visual Highlights)
+*A look into the UI/UX and Data Architectures I've built.*
 
-| Cover | Players | Teams | Brackets |
+| Cover Page UI | Players Management | Teams & Stats | Brackets |
 | :---: | :---: | :---: | :---: |
 | <img src="assets/Cover.png" width="200"/> | <img src="assets/Player.png" width="200"/> | <img src="assets/Teams.png" width="200"/> | <img src="assets/Bracket%20Schedules.png" width="200"/> |
 
@@ -116,5 +139,6 @@
 ---
 
 <p align="center">
-  <i>"Passionate about turning raw data into sustainable business growth and insights."</i>
+  <i>"Passionate about turning raw data into sustainable business growth and insights."</i><br>
+  <b>Jakarta, Indonesia | Open to Collaboration</b>
 </p>
