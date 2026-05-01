@@ -49,14 +49,6 @@
 
 ---
 
-## 📈 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seniorjunior&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=seniorjunior&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
-</p>
-
----
-
 ## 🚀 Key Impact Projects
 *Click to expand technical deep-dives.*
 
