@@ -1,9 +1,9 @@
-# 📊 William | Senior Business Intelligence Manager
+# 📊 William Adriel| Senior Business Intelligence Manager
 **Data Strategy | Growth Analytics | Fintech & FMCG Specialist**
 
 Currently driving data-led decision-making at **MoneeInsure** in Jakarta. I specialize in building robust data architectures that bridge the gap between complex engineering (PostgreSQL/Python) and high-level business strategy.
 
-[LinkedIn](https://www.linkedin.com/in/william-adriel/) | [Upwork](YOUR_LINK) | [Portfolio Site](YOUR_LINK)
+[LinkedIn](https://www.linkedin.com/in/william-adriel/) | [Upwork](https://www.upwork.com/freelancers/~01a6a0d53b5e656ff2?mp_source=share) | [Portfolio Site](YOUR_LINK)
 
 ---
 
@@ -85,12 +85,12 @@ Currently driving data-led decision-making at **MoneeInsure** in Jakarta. I spec
 ---
 
 ## 🖼️ Project Gallery (Visuals)
-*A look into the dashboards and architectures I've built.*
+*A look into the Excels and Dashboards I've built.*
 
-| Main Monitoring Company Dashboard for MoneeInsure  | GIIAS 2025 Dashboard | Overseas Sales Tracker | Supply Chain SCM | Osu Game Integrated Google Sheets 
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="assets/moneeinsure-preview.png" width="250" alt="MoneeInsure Main Company Dashboard"/> | <img src="assets/giias-preview.png" width="250" alt="GIIAS Dashboard"/> | <img src="assets/sfa-preview.png" width="250" alt="SFA Tracker"/> | <img src="assets/logistics-preview.png" width="250" alt="Logistics Viz"/> | <img src="assets/osu-google-sheets.png"/> |
-| *Real-time Lead Gen* | *KPI Monitoring (5 Countries)* | *Order-to-Invoice Journey* |
+| Osu Game Integrated Google Sheets |
+| :---: |
+| <img src="assets/Cover.png"/> | <img src="assets/Player.png"/> | <img src="assets/Teams.png"/> | <img src="assets/Bracket Schedules.png"/> | <img src="assets/Mappools.png"/> | <img src="assets/Qualifiers Result.png"/> | <img src="assets/Qualifiers Schedules.png"/> |
+| *Osu Game Integrated Google Sheets* |
 
 ---
 
@@ -103,5 +103,5 @@ Currently driving data-led decision-making at **MoneeInsure** in Jakarta. I spec
 ---
 
 <p align="center">
-  <i>"Passionate about turning raw data into sustainable business growth."</i>
+  <i>"Passionate about turning raw data into sustainable business growth and insights."</i>
 </p>
