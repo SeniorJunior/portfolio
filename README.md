@@ -3,14 +3,14 @@
 
 Currently driving data-led decision-making at **MoneeInsure** in Jakarta. I specialize in building robust data architectures that bridge the gap between complex engineering (PostgreSQL/Python) and high-level business strategy.
 
-[LinkedIn](YOUR_LINK) | [Upwork](YOUR_LINK) | [Portfolio Site](YOUR_LINK)
+[LinkedIn](https://www.linkedin.com/in/william-adriel/) | [Upwork](YOUR_LINK) | [Portfolio Site](YOUR_LINK)
 
 ---
 
 ## 🛠️ Technical Stack
 - **Languages:** SQL (PostgreSQL, MySQL, SparkSQL, PrestoSQL), Python (Pandas, NumPy, PySpark)
 - **BI & Viz:** PowerBI, Metabase, Microstrategy, Redash, Tableau
-- **Tools:** AWS (Solution Architect Associate), Google Sheets/Excel (Advanced), KNIME
+- **Tools:**  DBEAVER (Database Management and Data processing), AWS (Solution Architect Associate), Google Sheets/Excel (Advanced), KNIME
 - **Domain Expertise:** Insurance (Life/General), Automotive (Growth), FMCG (Overseas SFA), Agritech (Geo-spatial)
 
 ---
@@ -18,12 +18,19 @@ Currently driving data-led decision-making at **MoneeInsure** in Jakarta. I spec
 ## 🚀 Key Impact Projects
 *Click on the sections below to view details and technical impact.*
 
+<details> 
+<summary><b>📊 GWP, Policies, and Company Achievements Main Monitoring Dashboards </b></summary>
+**Role:** Lead the creation for GWP, Policies and Company Achievements monitoring dashboard
+- **The Work:** Managed full-cycle data support for MoneeInsure. Built real-time monitoring for Company Achievements, GWP and Policies.
+- **Outcome:** Clear and concise reporting pipelines for the main company monitoring dashboards (Helicpoter and detail view of all the teams and company achievements). Resulting in a more sophisticated actionable insights taken
+</details>
+
 <details>
 <summary><b>🏆 GIIAS 2025: End-to-End Data Leadership</b></summary>
 
-**Role:** Data Team Lead for Astra Financial
+**Role:** Data Team Lead for Astra Financial GIIAS Flash Deal Event and Sales Monitoring
 - **The Work:** Managed full-cycle data support for GIIAS (Jakarta, Surabaya, Semarang, Bandung). Built real-time monitoring for Sales, Ushers, and Booth performance.
-- **Outcome:** Provided the "Flash Deal" event with instant insights, leading to optimized lead generation and achievement monitoring across 4 major cities.
+- **Outcome:** Provided the "Flash Deal" event with instant insights, leading to optimized lead generation and achievement monitoring across the events in 4 major cities.
 </details>
 
 <details>
@@ -51,28 +58,38 @@ Currently driving data-led decision-making at **MoneeInsure** in Jakarta. I spec
 - **Governance:** Leading Weekly/Monthly PDCA (Plan-Do-Check-Act) and Actuary reporting for both General and Life Insurance.
 
 ### **Growth Data Analyst** | Astra Financial (MoXa)
-*2 Years 4 Months*
+*2 Years 3 Months*
 - **Direct Revenue Impact:** Validated the MoXa x Bank Jasa Jakarta collaboration, generating **>300M in sales revenue** in Dec 2023.
 - **Customer Acquisition:** Successfully converted 1,000+ leads into transacting customers, generating **>100M GMV**.
 - **Strategic Insight:** Provided targeted data for quarterly corporate reviews and growth department PDCA.
 
 ### **Business Intelligence Analyst** | Wingsfood (PT Sayap Mas Utama)
-- Optimized logistics efficiency by creating manpower planning models and container allocation trackers.
-- Reduced query latency by implementing advanced SQL tuning and customized functions.
+*2 Years 4 Months*
+- **Supply team Strategic Insight:** Optimized logistics efficiency by creating manpower planning models and container allocation trackers.
+- **ETL and Data Cleansing:** Reduced query latency by implementing advanced SQL tuning and customized functions.
 
 ### **Data Analyst Intern** | Yara International
 *Singapore*
-- Built cloud data pipelines (Metabase) for geo-spatial assets.
+- **Geo-spatial Insights:** Built cloud data pipelines (Metabase) for geo-spatial assets.
 - **Chatbot Leadership:** Led a farmer-focused chatbot project reaching **100k+ users**.
+
+### **Advanced Tournament Management System (Osu! Rhythm Game)**
+*Integrated Google Sheets Ecosystem with API & VBA Automation*
+- **The Tech:** Google Sheets API, Excel VBA, UX/UI Design, JSON Data Parsing.
+- **The Solution:** Developed a sophisticated automation suite for competitive match tracking.
+  - **Match Automation:** Integrated live APIs to automatically fetch and validate match results.
+  - **Map Selection Engine:** Built a logic-based automation tool for map pooling and selector efficiency.
+  - **UI/UX Design:** Engineered a custom interface within Google Sheets to provide a professional, dashboard-like experience for tournament organizers.
+- **The Impact:** Transformed a manual, error-prone coordination process into a seamless, automated digital ecosystem.
 
 ---
 
 ## 🖼️ Project Gallery (Visuals)
 *A look into the dashboards and architectures I've built.*
 
-| GIIAS 2025 Dashboard | Overseas Sales Tracker | Supply Chain SCM |
-| :---: | :---: | :---: |
-| <img src="assets/giias-preview.png" width="250" alt="GIIAS Dashboard"/> | <img src="assets/sfa-preview.png" width="250" alt="SFA Tracker"/> | <img src="assets/logistics-preview.png" width="250" alt="Logistics Viz"/> |
+| Main Monitoring Company Dashboard for MoneeInsure  | GIIAS 2025 Dashboard | Overseas Sales Tracker | Supply Chain SCM | Osu Game Integrated Google Sheets 
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="assets/moneeinsure-preview.png" width="250" alt="MoneeInsure Main Company Dashboard"/> | <img src="assets/giias-preview.png" width="250" alt="GIIAS Dashboard"/> | <img src="assets/sfa-preview.png" width="250" alt="SFA Tracker"/> | <img src="assets/logistics-preview.png" width="250" alt="Logistics Viz"/> | <img src="assets/osu-google-sheets.png"/> |
 | *Real-time Lead Gen* | *KPI Monitoring (5 Countries)* | *Order-to-Invoice Journey* |
 
 ---
