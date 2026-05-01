@@ -1,4 +1,5 @@
-# 📊 Senior Business Intelligence Portfolio
+# 📊 William Adriel | Senior Business Intelligence Manager
+**Data Strategy | Growth Analytics | Fintech & FMCG Specialist**
 
 <!-- *** EXECUTIVE BADGE BAR *** -->
 <p align="left">
@@ -30,17 +31,21 @@
 ---
 
 ## 🛠️ Technical Arsenal & Proficiency
+
 **SQL (PostgreSQL / SparkSQL / BigQuery)** 
-![Progress](https://progress-bar.dev/95/?title=Expert&width=600&color=4479A1)
+> █ █ █ █ █ █ █ █ █ ░  **95%** (Expert)
 
 **Python (Pandas / NumPy / PySpark)** 
-![Progress](https://progress-bar.dev/85/?title=Advanced&width=600&color=3776AB)
+> █ █ █ █ █ █ █ █ ░ ░  **85%** (Advanced)
 
 **Data Visualization (PowerBI / Metabase / Tableau)** 
-![Progress](https://progress-bar.dev/90/?title=Expert&width=600&color=F2C811)
+> █ █ █ █ █ █ █ █ █ ░  **90%** (Expert)
+
+**Microsoft Tools (Google Sheets, Excel, Powerpoint, Docs, Word)** 
+> █ █ █ █ █ █ █ █ █ ░  **90%** (Expert)
 
 **Cloud & Eng (AWS / ETL / API Integration)** 
-![Progress](https://progress-bar.dev/75/?title=Solution_Architect&width=600&color=232F3E)
+> █ █ █ █ █ █ ░ ░ ░ ░  **65%** (Intermediate / SA)
 
 ---
 
@@ -87,7 +92,7 @@
 
 ### **Senior Business Intelligence** | MoneeInsure 
 *Jakarta | 8 Months - Present*
-- **Performance:** Developing tracking for Ecosystem vs. Non-Ecosystem business lines.
+- **Portfolio Tracking:** Developing performance tracking for Ecosystem vs. Non-Ecosystem business lines.
 - **Automation:** Built reporting pipelines for Customer Service and Claim Monitoring.
 - **Governance:** Leading Weekly/Monthly PDCA and Actuary reporting for Life/General Insurance.
 
@@ -118,7 +123,7 @@
 ---
 
 ## 🖼️ Project Gallery (Visual Highlights)
-*A look into the UI/UX and Data Architectures I've built.*
+*A look into the UI/UX and Data Architectures I've built in Google Sheets.*
 
 | Cover Page UI | Players Management | Teams & Stats | Brackets |
 | :---: | :---: | :---: | :---: |
