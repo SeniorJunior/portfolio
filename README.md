@@ -103,12 +103,18 @@ Optimized global logistics via manpower planning models and reduced query latenc
 ### **Tournament Management Ecosystem (Osu!)**
 > **Concept:** Automated digital ecosystem for competitive rhythm gaming.  
 > **Tech Stack:** Google Sheets API, VBA, JSON Data Parsing.  
-> **Result:** Seamlessly automated match tracking and map selection for 100k+ potential data points.
+> **Result:** Seamlessly automated match tracking and map selection.
 
+### **National Rhythm Game Tournament Director**
+*Osu! Indonesia Tournament*
+- **Leadership:** Leading a national-scale tournament consisting of **400+ participants**.
+- **Team Management:** Led a diverse team of **25+ staff members**.
+- **Digital Ecosystem:** Leading **Tournament Management System** using Google Sheets API, VBA, and JSON parsing to automate match tracking and map selection.
+- **Outcome:** Successfully delivered a seamless, automated competitive experience, proving end-to-end project ownership and high-level technical and operational UI/UX design.
 ---
 
 ## 🖼️ UI/UX Design & Dashboard Gallery
-*Visualizing automation logic built within Google Sheets.*
+*Visualizing the UI/UX final design, resulted from automation logic built within Google Sheets.*
 
 | | | |
 | :---: | :---: | :---: |
@@ -126,7 +132,6 @@ Optimized global logistics via manpower planning models and reduced query latenc
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seniorjunior&layout=compact&theme=vision-friendly-dark" />
   <br/>
   <i>"Turning raw data into sustainable business growth and actionable insights."</i>
 </p>
