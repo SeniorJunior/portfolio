@@ -56,7 +56,7 @@
       Built unified "Helicopter View" reporting pipelines for GWP and Policy achievements, enabling real-time executive-level pivots.
     </td>
     <td>
-      <b>🏆 GIIAS 2025 Data Lead</b><br/>
+      <b>🏆 GIIAS 2025 Data Analyst and Flash Deal Event Data Lead</b><br/>
       <i>Astra Financial</i><br/>
       <hr/>
       Orchestrated end-to-end data support for Indonesia's largest automotive event. Managed real-time performance tracking across 4 major cities.
