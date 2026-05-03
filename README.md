@@ -17,7 +17,7 @@
     </td>
     <td width="70%">
       <h2>William Adriel</h2>
-      <p><b>Senior Business Intelligence Manager | データサイエンティスト</b></p>
+      <p><b>Senior Business Intelligence Manager | データ分析者</b></p>
       <p>Transforming complex financial, automotive, and insurance data into high-level growth strategy. I specialize in building robust data architectures that bridge the gap between complex engineering and executive decision-making.</p>
       <p>
         <a href="https://www.linkedin.com/in/william-adriel/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
