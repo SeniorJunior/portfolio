@@ -2,7 +2,7 @@
 
 <!-- *** HERO BANNER *** -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=William%20Adriel&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Senior%20BI%20Manager%20|%20Data%20Analyst%and%Business%Intelligence&descAlignY=55&descSize=25" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=William%20Adriel&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Senior%20BI%20Manager%20|%20Data%20Analyst%20and%20Business%20Intelligence&descAlignY=55&descSize=25" width="100%"/>
 </p>
 
 <!-- *** CONTACT BADGE BAR *** -->
