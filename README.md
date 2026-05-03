@@ -1,28 +1,31 @@
-# 📊 William Adriel | Senior Business Intelligence Manager
-**Data Strategy | Growth Analytics | Fintech & FMCG Specialist**
+# 📊 Senior Business Intelligence Portfolio
 
-<!-- *** EXECUTIVE BADGE BAR *** -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Location-Jakarta%2C%20ID-red?style=flat-square&logo=googlemaps" alt="Location"/>
-  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-blue?style=flat-square" alt="Experience"/>
-  <img src="https://img.shields.io/badge/Target-Master_of_Biotech_Japan-orange?style=flat-square&logo=bookstack" alt="Goals"/>
-  <img src="https://img.shields.io/badge/Upwork-Top%20Rated%20Candidate-green?style=flat-square&logo=upwork" alt="Upwork Status"/>
+<!-- *** HERO BANNER *** -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=William%20Adriel&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Senior%20BI%20Manager%20|%20Data%20Strategist&descAlignY=55&descSize=25" width="100%"/>
+</p>
+
+<!-- *** CONTACT BADGE BAR *** -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Jakarta%2C%20ID-red?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-blue?style=for-the-badge" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Target-Master_of_Biotech_Japan-orange?style=for-the-badge&logo=bookstack" alt="Goals"/>
 </p>
 
 <!-- *** EXECUTIVE HEADER *** -->
-<table>
+<table border="0">
   <tr>
     <td width="30%" align="center">
-      <img src="assets/profile-pic.png" width="200" style="border-radius: 50%; border: 4px solid #3a7bd5;" alt="William Adriel"/>
+      <img src="assets/profile-pic.png" width="220" style="border-radius: 20px; border: 2px solid #3a7bd5; box-shadow: 10px 10px 5px #ccc;" alt="William Adriel"/>
     </td>
     <td width="70%">
-      <h2>William Adriel</h2>
-      <p><b>Senior Business Intelligence Manager | データ分析者</b></p>
-      <p>Transforming complex financial, automotive, and insurance data into high-level growth strategy. I specialize in building robust data architectures that bridge the gap between complex engineering and executive decision-making.</p>
-      <p>
-        <a href="https://www.linkedin.com/in/william-adriel/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-        <a href="https://www.upwork.com/freelancers/~01a6a0d53b5e656ff2?mp_source=share"><img src="https://img.shields.io/badge/Upwork-Hire_Me-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
-        <a href="https://seniorjunior.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
+      <h3>データ分析者 | Data Analyst</h3>
+      <p>Transforming complex financial, insurance, fmcg and e-commerce data into high-level growth strategy. 
+	  I specialize in building robust data architectures that bridge the gap between complex engineering and executive decision-making.</p>
+      <p align="left">
+        <a href="https://www.linkedin.com/in/william-adriel/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+        <a href="https://www.upwork.com/freelancers/~01a6a0d53b5e656ff2?mp_source=share"><img src="https://img.shields.io/badge/Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white" alt="Upwork"/></a>
+        <a href="https://seniorjunior.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-orange?style=flat-square&logo=github&logoColor=white" alt="Portfolio"/></a>
       </p>
     </td>
   </tr>
@@ -30,112 +33,100 @@
 
 ---
 
-## 🛠️ Technical Arsenal & Proficiency
+## 🛠️ Technical Arsenal
 
-**SQL (PostgreSQL / SparkSQL / BigQuery)** 
-> █ █ █ █ █ █ █ █ █ ░  **95%** (Expert)
-
-**Python (Pandas / NumPy / PySpark)** 
-> █ █ █ █ █ █ █ █ ░ ░  **85%** (Advanced)
-
-**Data Visualization (PowerBI / Metabase / Tableau)** 
-> █ █ █ █ █ █ █ █ █ ░  **90%** (Expert)
-
-**Microsoft Tools (Google Sheets, Excel, Powerpoint, Docs, Word)** 
-> █ █ █ █ █ █ █ █ █ ░  **90%** (Expert)
-
-**Cloud & Eng (AWS / ETL / API Integration)** 
-> █ █ █ █ █ █ ░ ░ ░ ░  **65%** (Intermediate / SA)
+| Category | Mastery & Tools |
+| :--- | :--- |
+| **Data Engineering** | `SQL (PostgreSQL / SparkSQL / BigQuery)` `Python (Pandas / PySpark)` `ETL` |
+| **Business Intelligence** | `PowerBI` `Metabase` `Tableau` `Microstrategy` `Redash` |
+| **Strategic Operations** | `Advanced Google Sheets` `VBA` `Corporate PDCA` `Project Management (CAPM)` |
+| **Cloud Infrastructure** | `AWS (Solutions Architect)` `API Integration` `JSON Parsing` |
 
 ---
 
-## 🚀 Key Impact Projects
-*Click to expand technical deep-dives.*
+## 🚀 Strategic Impact Projects
+*Detailed case studies of high-revenue data implementations.*
 
-<details> 
-<summary><b>📊 GWP & Company Achievement Monitoring Dashboards</b></summary>
-**Role:** Lead for GWP and Company Achievement tracking at MoneeInsure.
-- **The Work:** Built real-time monitoring for Company Achievements and Policies.
-- **Outcome:** Unified reporting pipelines into "Helicopter Views," providing executive-level actionable insights.
-</details>
-
-<details>
-<summary><b>🏆 GIIAS 2025: End-to-End Data Leadership</b></summary>
-**Role:** Data Team Lead for Astra Financial (Flash Deal Event)
-- **The Work:** Managed data support across 4 cities (Jakarta, Surabaya, Semarang, Bandung). Built real-time monitors for Sales and Booth performance.
-- **Outcome:** Optimized lead generation and performance tracking for high-pressure regional events.
-</details>
-
-<details>
-<summary><b>🧬 Growth Database & Migration (MoXa)</b></summary>
-- **The Work:** Led restructuring and migration of FIF, AID, and CMS databases into a unified Growth Database.
-- **Outcome:** Streamlined customer segmentation and accurate quarterly corporate reviews.
-</details>
-
-<details>
-<summary><b>🌍 Overseas Sales Force Automation (Wingsfood)</b></summary>
-- **The Work:** Coordinated SFA implementation across 5+ countries. Developed "Order-to-Invoice" supply chain dashboards.
-- **Outcome:** **50% revenue increase** within 3 months of deployment via strategic KPI tracking.
-</details>
+<table>
+  <tr>
+    <td>
+      <b>📊 GWP & Company Monitoring</b><br/>
+      <i>MoneeInsure</i><br/>
+      <hr/>
+      Built unified "Helicopter View" reporting pipelines for GWP and Policy achievements, enabling real-time executive-level pivots.
+    </td>
+    <td>
+      <b>🏆 GIIAS 2025 Data Lead</b><br/>
+      <i>Astra Financial</i><br/>
+      <hr/>
+      Orchestrated end-to-end data support for Indonesia's largest automotive event. Managed real-time performance tracking across 4 major cities.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>🧬 Growth DB Migration</b><br/>
+      <i>MoXa (Astra Financial)</i><br/>
+      <hr/>
+      Restructured and integrated FIF, AID, and CMS databases. Streamlined segmentation and enhanced corporate quarterly review accuracy.
+    </td>
+    <td>
+      <b>🌍 Overseas SFA</b><br/>
+      <i>Wingsfood</i><br/>
+      <hr/>
+      Coordinated Sales Force Automation in 5+ countries. Resulted in a <b>50% revenue increase</b> within 3 months of deployment.
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💼 Professional Experience
+## 💼 Professional Narrative
 
-### **Senior Business Intelligence** | MoneeInsure 
-*Jakarta | 8 Months - Present*
-- **Portfolio Tracking:** Developing performance tracking for Ecosystem vs. Non-Ecosystem business lines.
-- **Automation:** Built reporting pipelines for Customer Service and Claim Monitoring.
-- **Governance:** Leading Weekly/Monthly PDCA and Actuary reporting for Life/General Insurance.
+<details>
+<summary><b>Senior Business Intelligence | MoneeInsure</b> (Current)</summary>
+Leading data governance and actuary reporting for Life/General insurance. Developed performance tracking for Ecosystem vs. Non-Ecosystem business lines.
+</details>
 
-### **Growth Data Analyst** | Astra Financial (MoXa)
-*2 Years 3 Months*
-- **Revenue:** Validated MoXa x Bank Jasa Jakarta collaboration, generating **>300M in sales revenue**.
-- **Conversion:** Successfully converted 1,000+ leads into transacting customers (**>100M GMV**).
+<details>
+<summary><b>Growth Data Analyst | Astra Financial</b> (2.3 Years)</summary>
+Generated <b>>300M in sales revenue</b> via Bank Jasa Jakarta collaboration and converted 1,000+ leads into <b>>100M GMV</b>.
+</details>
 
-### **Business Intelligence Analyst** | Wingsfood (PT Sayap Mas Utama)
-*2 Years 4 Months*
-- **Logistics:** Optimized efficiency via manpower planning models and container allocation trackers.
-- **ETL:** Reduced query latency via advanced SQL tuning and customized functions.
-
-### **Data Analyst Intern** | Yara International
-*Singapore*
-- **Geo-spatial:** Built cloud data pipelines for geo-spatial assets.
-- **Chatbot:** Led farmer-focused chatbot project reaching **100k+ users**.
+<details>
+<summary><b>Business Intelligence Analyst | Wingsfood</b> (2.4 Years)</summary>
+Optimized global logistics via manpower planning models and reduced query latency through advanced SQL tuning.
+</details>
 
 ---
 
 ## 🎮 Innovation Side Project
-### **Advanced Tournament Management System (Osu! Rhythm Game)**
-*Integrated Google Sheets Ecosystem with API & VBA Automation*
-- **Tech:** Google Sheets API, Excel VBA, JSON Parsing, UX/UI Design.
-- **Solution:** Automated match tracking, map selection, and qualifier results via live API.
-- **Impact:** Transformed manual coordination into a seamless automated ecosystem.
+### **Tournament Management Ecosystem (Osu!)**
+> **Concept:** Automated digital ecosystem for competitive rhythm gaming.  
+> **Tech Stack:** Google Sheets API, VBA, JSON Data Parsing.  
+> **Result:** Seamlessly automated match tracking and map selection for 100k+ potential data points.
 
 ---
 
-## 🖼️ Project Gallery (Visual Highlights)
-*A look into the UI/UX and Data Architectures I've built in Google Sheets.*
+## 🖼️ UI/UX Design & Dashboard Gallery
+*Visualizing automation logic built within Google Sheets.*
 
-| Cover Page UI | Players Management | Teams & Stats | Brackets |
-| :---: | :---: | :---: | :---: |
-| <img src="assets/Cover.png" width="200"/> | <img src="assets/Player.png" width="200"/> | <img src="assets/Teams.png" width="200"/> | <img src="assets/Bracket%20Schedules.png" width="200"/> |
-
-| Mappools | Qualifiers Result | Qualifiers Schedule |
+| | | |
 | :---: | :---: | :---: |
-| <img src="assets/Mappools.png" width="200"/> | <img src="assets/Qualifiers%20Result.png" width="200"/> | <img src="assets/Qualifiers%20Schedules.png" width="200"/> |
+| <img src="assets/Cover.png" width="250"/> | <img src="assets/Player.png" width="250"/> | <img src="assets/Teams.png" width="250"/> |
+| <img src="assets/Bracket%20Schedules.png" width="250"/> | <img src="assets/Mappools.png" width="250"/> | <img src="assets/Qualifiers%20Result.png" width="250"/> |
 
 ---
 
-## 📜 Certifications
-- **Data Analyst with PySpark** (Datacamp)
-- **Certified Associate in Project Management** (PPM)
-- **Data Analytics for Building Data-Driven Culture**
-- **AWS Certified Solutions Architect** (Former)
+## 📜 Certifications & Education
+- 🏆 **Certified Associate in Project Management** | PPM School of Management
+- 🐍 **Data Analyst with PySpark** | Datacamp
+- ☁️ **AWS Certified Solutions Architect** (Former)
+- 🎓 **Bachelor of Computer Science** | Specializing in Big Data
 
 ---
 
 <p align="center">
-  <i>"Passionate about turning raw data into sustainable business growth and insights."</i><br>
-  <b>Jakarta, Indonesia | Open to Collaboration</b>
+  <img src="https://github-readme-stats.vercel.app/api?username=seniorjunior&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Stats" />
+  <br/>
+  <i>"Turning raw data into sustainable business growth and actionable insights."</i>
 </p>
