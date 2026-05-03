@@ -71,7 +71,7 @@
     </td>
     <td>
       <b>🌍 Overseas SFA</b><br/>
-      <i>Wingsfood</i><br/>
+      <i>PT Sayap Mas Utama (Wingsfood Indonesia)</i><br/>
       <hr/>
       Coordinated Sales Force Automation in 5+ countries. Resulted in a <b>50% revenue increase</b> within 3 months of deployment.
     </td>
@@ -126,7 +126,7 @@ Optimized global logistics via manpower planning models and reduced query latenc
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seniorjunior&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seniorjunior&layout=compact&theme=vision-friendly-dark" />
   <br/>
   <i>"Turning raw data into sustainable business growth and actionable insights."</i>
 </p>
