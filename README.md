@@ -111,6 +111,7 @@ Optimized global logistics via manpower planning models and reduced query latenc
 - **Team Management:** Led a diverse team of **25+ staff members**.
 - **Digital Ecosystem:** Leading **Tournament Management System** using Google Sheets API, VBA, and JSON parsing to automate match tracking and map selection.
 - **Outcome:** Successfully delivered a seamless, automated competitive experience, proving end-to-end project ownership and high-level technical and operational UI/UX design.
+
 ---
 
 ## 🖼️ UI/UX Design & Dashboard Gallery
